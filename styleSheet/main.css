@@ -1,0 +1,50 @@
+body {
+    background-color: yellowgreen;
+    padding: 0;
+    margin: 20px;
+}
+
+#carLovers {
+    background-color: brown;
+    color: rgb(0, 0, 255);
+    border-radius: 15px;
+}
+
+h1 {
+    color: purple;
+    font-size: 35px;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#img {
+    background-color: black;
+    width: 50%;
+    margin: 30px 50px;
+    align-items: center;
+}
+img {
+    width: 45vw;
+    margin: 30px;
+}
+/* input[type='submit'] {
+    background-color: blue;
+    width: 32%;
+    padding: 5px;
+} */
+#myBtn {
+    background-color: blue;
+    width: 32%;
+    padding: 5px;
+}
+.information {
+    margin: 10px
+}
+
+#f-gender {
+    margin-left:120px;
+}
+
+#details {
+    margin-left: 100px;
+}
